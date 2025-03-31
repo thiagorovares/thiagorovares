@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning JavaScript, Database, maths and other college subjects<br>🎯 Goals: ...<br>🎲 Fun fact: I like to play games and listen to music!</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning JavaScript, Python, Database, maths and other college subjects<br>🎯 Goals: ...<br>🎲 Fun fact: I like to play games and listen to music!</p>
 
 ###
 
