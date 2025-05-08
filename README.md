@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Hello!! I am a Software Engineering student at FIAP College, and I want to work as a Back-End Developer, I based from São Paulo and I have 18 years old.</h2>
+<h2 align="left">Hello!! I am a Software Engineering student at FIAP College, and I want to work as a Back-End Developer, Im based from São Paulo and I have 18 years old.</h2>
 
 ###
 
